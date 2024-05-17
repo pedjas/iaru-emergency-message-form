@@ -12,7 +12,7 @@ Amateur radio prooved itself as valuable asset in emergencies. When natural or h
 
 Amateur radio operators are trained and equipped to be operative even in that environment. They are independant on public infrastructure.
 
-If you want to learn more follow [Emergency Operating Procedures] (https://www.iaru-r1.org/about-us/committees-and-working-groups/emcomm/emergency-operating-procedures/).
+If you want to learn more follow [Emergency Operating Procedures](https://www.iaru-r1.org/about-us/committees-and-working-groups/emcomm/emergency-operating-procedures/).
 
 ## File
 

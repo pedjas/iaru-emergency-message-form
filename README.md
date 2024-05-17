@@ -16,15 +16,17 @@ If you want to learn more follow [Emergency Operating Procedures] (https://www.i
 
 ## File
 
-There is just one file, named IARU-EmergencyMessageForm.ods. It may be openned using LibreOffice and other software that can read format.
+There is just one file, named [IARU-EmergencyMessageForm.ods](https://github.com/pedjas/iaru-emergency-message-form/blob/main/IARU-EmergencyMessageForm.ods). It may be openned using LibreOffice and other software that can read format.
 
 It does not use macros, just expressions, so it is safe to use, and should work on most platforms.
 
 ## Usage
 
+- Download [IARU-EmergencyMessageForm.ods](https://github.com/pedjas/iaru-emergency-message-form/blob/main/IARU-EmergencyMessageForm.ods)
 - Open File.
 - Select mode. For now CW and PHONE are available choices.
 - Fill in the fields. Pay attention that Word Count field is read only. It calculates number of words automatically as you type message text.
+- If you want to save copy of message to be able to create new one, save it using option Save As...
 
 There is area below form that contains formatted message according to selcted mode. Are is read only but you can select it and copy content to paste it into message sending software.
 

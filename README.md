@@ -32,9 +32,11 @@ There is area below form that contains formatted message according to selcted mo
 
 ## Contribution
 
-There is room for contribution fo others:
+There is room for contribution of others:
 - deciding what additional MODES are needed and implementing support for them
 - making translated document in languages other than English.
+
+If you are able to help, feel free to jump in.
 
 ## Copyright (absence of)
 

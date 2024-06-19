@@ -1,8 +1,8 @@
 # iaru-emergency-message-form
 
-This is LibreOffice Calc (ods) spreadsheet table designed to enter IARU Emergency Service Message Form, process it and reformat it to predevined message format depending on use case.
+This is LibreOffice Calc (ods) spreadsheet table designed to allow easieer formattiong of messagis inpreparation to send toother station. User can fill fields of IARU Emergency Service Message Form, process it and reformat it to predefined message format depending on use case.
 
-It is just helper allowing operator to use human readable form and convert content into format that is prepared to be transmitted over radio. It should help redicing manual work and cutting oportunities to make errors in message formatting.
+It is just helper allowing operator to use human readable form and convert content into format that is prepared to be transmitted over radio. It should help reducing manual work and lowering oportunities to make errors in message formatting.
 
 Base model for this tool is https://www.iaru-r1.org/wp-content/uploads/2019/09/IARU-msg1.pdf.
 
